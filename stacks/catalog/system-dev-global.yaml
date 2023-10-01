@@ -1,0 +1,5 @@
+vars:
+  region: us-central1
+  project_id: sgupta-sandbox
+  bucket_name: sgupta-sandbox-bucket-dev
+  storage_class: STANDARD

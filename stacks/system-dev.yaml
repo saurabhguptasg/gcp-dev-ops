@@ -1,0 +1,7 @@
+import:
+  - catalog/system-dev-gobal
+components:
+  terraform:
+    infra:
+      cloud-storage:
+      
